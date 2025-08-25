@@ -1,6 +1,6 @@
 image:
   repository: me-central2-docker.pkg.dev/rahafawadallah-jy0lla/demo-app/app
-  tag: "344c62a"
+  tag: "85fb5d6"
   pullPolicy: IfNotPresent
 replicaCount: 1
 service:
